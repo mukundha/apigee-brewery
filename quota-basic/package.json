@@ -12,7 +12,11 @@
   "dependencies":{
     "chai":"*",
     "request":"*",
-    "async":"*"
+    "async":"*"  
+  },
+  "dependencies":{
+    "gulp":"*",
+    "apigeetool" : "mukundha/apigeetool-node"
   },
   "author": "mukundha@apigee.com",
   "license": "ISC"
